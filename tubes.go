@@ -1,3 +1,5 @@
+//Defari Akbar Anggara
+//NIM 103062300079
 package main
 
 import (
